@@ -18,7 +18,7 @@
     |    └──transaction_amount_alert.txt
          
 ## Sturctre of the repo
-Inder to run the code, just run the shell ./run.sh
+Inder to run the code, just run the shell './run.sh'
 
 ## Two New features
 
