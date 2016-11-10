@@ -18,7 +18,7 @@
     |    └──transaction_amount_alert.txt
          
 ## Sturctre of the repo
-Inder to run the code, just run the shell `./run.sh`
+Inder to run the code, just run the shell `bash run.sh`
 
 ## output
 the `output1.txt`, `output2.txt`, `output3.txt` are located in paymo_output folder (give outputs for feature 1 2 3 as you want)
