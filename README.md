@@ -5,7 +5,13 @@
     ├── README.md 
     ├── run.sh
     ├── src
-    │    └── antifraud.java
+    │    └── mainfile.cpp
+    |    └── set_compare.cpp
+    |    └── tree.cpp
+    |    └── node.h
+    |    └── reader.h
+    |    └── set_compare.h
+    |    └── tree.h
     ├── paymo_input
     │    └── batch_payment.txt
     |    └── stream_payment.txt
@@ -18,10 +24,10 @@
     |    └──transaction_amount_alert.txt
          
 ## Sturctre of the repo
-Inder to run the code, just run the shell `bash run.sh`
+Inder to run the code, just run the shell in the current directory `bash run.sh` in Linux UBUNTU 16.10 (where I tested)
 
 ## output
-the `output1.txt`, `output2.txt`, `output3.txt` are located in paymo_output folder (give outputs for feature 1 2 3 as you want)
+the `output1.txt`, `output2.txt`, `output3.txt` are located in paymo_output folder (give outputs for feature 1 2 3 as you required)
 
 ## Two New features
 
