@@ -16,12 +16,12 @@
     │    └── batch_payment.txt
     |    └── stream_payment.txt
     ├── paymo_output
-    │    └── output1.txt
-    |    └── output2.txt
-    |    └── output3.txt
-    |    └── output3.txt
-    |    └──current_balance_for_all_users.txt
-    |    └──transaction_amount_alert.txt
+         └── output1.txt
+         └── output2.txt
+         └── output3.txt
+         └── output3.txt
+         └──current_balance_for_all_users.txt
+         └──transaction_amount_alert.txt
          
 ## Sturctre of the repo
 Inder to run the code, just run the shell in the current directory `bash run.sh` in Linux UBUNTU 16.10 (where I tested)
