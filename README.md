@@ -1,6 +1,6 @@
 # Gan-Song-paymo
 
-## Sturctre of the repo
+## Structure of the repo
 
     ├── README.md 
     ├── run.sh
@@ -23,7 +23,7 @@
          └──current_balance_for_all_users.txt
          └──transaction_amount_alert.txt
          
-## Sturctre of the repo
+## Run the code
 Inder to run the code, just run the shell in the current directory `bash run.sh` in Linux UBUNTU 16.10 (where I tested)
 
 ## output
