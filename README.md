@@ -19,7 +19,6 @@
          └── output1.txt
          └── output2.txt
          └── output3.txt
-         └── output3.txt
          └──current_balance_for_all_users.txt
          └──transaction_amount_alert.txt
          
